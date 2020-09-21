@@ -7,6 +7,7 @@ output: html_document
 
 ```{r}
 print("hello world")
+print("adding more text from Step 5")
 ```
 
 
